@@ -1,6 +1,5 @@
 Sure, here's a simple `README.md` file for your "tbot" Telegram bot script written in Python:
 
-```markdown
 # tbot
 
 `tbot` is a simple Telegram bot written in Python. It supports basic commands and can download YouTube videos as MP3 or MP4 files more features soon!! its free to recode this script!! but don't forget the star⭐⭐⭐.
@@ -24,7 +23,7 @@ Sure, here's a simple `README.md` file for your "tbot" Telegram bot script writt
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/tbot.git
+git clone https://github.com/rizkykianadji/tbot.git
 cd tbot
 ```
 
