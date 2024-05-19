@@ -1,4 +1,4 @@
-Sure, here's a simple `README.md` file for your "tbot" Telegram bot script written in Python:
+
 
 # tbot
 
