@@ -86,5 +86,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [PyTelegramBotAPI (telebot)](https://github.com/eternnoir/pyTelegramBotAPI)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 ```
-
-.
